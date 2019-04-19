@@ -1,0 +1,1514 @@
+﻿[16:37:44][20190419_16:37:44]
+
+
+
+====================
+
+Log setup
+
+====================
+
+
+
+[16:37:45]root
+[16:37:46]Password: record link commit     GP FPSG = 25.00
+[16:37:46]** Message: avm render  GP FPSG = 25.00
+[16:37:46]
+[16:37:47]root@t1a-s:~# ** Message: post commit   GP FPSG = 29.99
+[16:37:47]
+[16:37:47]unt / -o remount,rw
+[16:37:50]root@t1a-s:~# ** Message: post commit   GP FPSG = 30.00
+[16:37:50]
+[16:37:50]record link commit       GP FPSG = 25.00
+[16:37:50]** Message: avm render  GP FPSG = 25.00
+[16:37:50]
+[16:37:53]** Message: post commit   GP FPSG = 30.00
+[16:37:53]
+[16:37:54]record link commit       GP FPSG = 25.00
+[16:37:54]** Message: avm render  GP FPSG = 25.00
+[16:37:54]
+[16:37:57]** Message: post commit   GP FPSG = 30.00
+[16:37:57]
+[16:37:58]record link commit       GP FPSG = 25.00
+[16:37:58]** Message: avm render  GP FPSG = 25.00
+[16:37:58]
+[16:38:00]** Message: post commit   GP FPSG = 30.00
+[16:38:00]
+[16:38:02]record link commit       GP FPSG = 25.00
+[16:38:02]** Message: avm render  GP FPSG = 25.00
+[16:38:02]
+[16:38:03]** Message: post commit   GP FPSG = 29.99
+[16:38:03]
+[16:38:06]record link commit       GP FPSG = 25.00
+[16:38:06]** Message: avm render  GP FPSG = 25.00
+[16:38:06]
+[16:38:07]** Message: post commit   GP FPSG = 30.00
+[16:38:07]
+[16:38:10]** Message: post commit   GP FPSG = 30.00
+[16:38:10]
+[16:38:10]record link commit       GP FPSG = 25.00
+[16:38:10]** Message: avm render  GP FPSG = 25.00
+[16:38:10]
+[16:38:12][ 1963.864760] usb 1-1.4: device not accepting address 7, error -71
+[16:38:12]Cannot open mouse input device /dev/input/event1 (No such file or directory)
+[16:38:12]evdevmouse: Failed to open mouse device /dev/input/event1
+[16:38:13]** Message: post commit   GP FPSG = 30.00
+[16:38:13]
+[16:38:14]record link commit       GP FPSG = 25.00
+[16:38:14]** Message: avm render  GP FPSG = 25.00
+[16:38:14]
+[16:38:17]** Message: post commit   GP FPSG = 30.00
+[16:38:17]
+[16:38:18]record link commit       GP FPSG = 25.00
+[16:38:18]** Message: avm render  GP FPSG = 25.01
+[16:38:18]
+[16:38:20]** Message: post commit   GP FPSG = 29.99
+[16:38:20]
+[16:38:22]record link commit       GP FPSG = 25.00
+[16:38:22]** Message: avm render  GP FPSG = 25.00
+[16:38:22]
+[16:38:23]** Message: post commit   GP FPSG = 30.00
+[16:38:23]
+[16:38:26]record link commit       GP FPSG = 25.00
+[16:38:26]** Message: avm render  GP FPSG = 25.00
+[16:38:26]
+[16:38:26]evdevmouse: Could not read from input device (No such device)
+[16:38:27]** Message: post commit   GP FPSG = 30.00
+[16:38:27]
+[16:38:30]evdevmouse: Could not read from input device (No such device)
+[16:38:30]** Message: post commit   GP FPSG = 30.00
+[16:38:30]
+[16:38:30]record link commit       GP FPSG = 25.00
+[16:38:30]** Message: avm render  GP FPSG = 24.99
+[16:38:30]
+[16:38:33]** Message: post commit   GP FPSG = 30.00
+[16:38:33]
+[16:38:34]record link commit       GP FPSG = 25.00
+[16:38:34]** Message: avm render  GP FPSG = 25.01
+[16:38:34]
+[16:38:34]qml: avm top pressed
+[16:38:35]qml: avm top pressed
+[16:38:37]** Message: post commit   GP FPSG = 29.99
+[16:38:37]
+[16:38:37]IDA +++++++++++++++ double click region 0 --> 4 --> 8+++++++++++++++
+[16:38:37]
+[16:38:37]Toggle the developermode visible!
+[16:38:38]evdevmouse: Could not read from input device (No such device)
+[16:38:38]record link commit       GP FPSG = 25.00
+[16:38:38]** Message: avm render  GP FPSG = 25.00
+[16:38:38]
+[16:38:40]** Message: post commit   GP FPSG = 30.00
+[16:38:40]
+[16:38:42]record link commit       GP FPSG = 25.00
+[16:38:42]** Message: avm render  GP FPSG = 25.00
+[16:38:42]
+[16:38:43]** Message: post commit   GP FPSG = 30.00
+[16:38:43]
+[16:38:46]record link commit       GP FPSG = 25.00
+[16:38:46]** Message: avm render  GP FPSG = 25.00
+[16:38:46]
+[16:38:47]** Message: post commit   GP FPSG = 29.99
+[16:38:47]
+[16:38:47]qml: loader source:  qrc:/common/dev/DevFuncTraceSetting.qml
+[16:38:50]** Message: post commit   GP FPSG = 30.00
+[16:38:50]
+[16:38:50]record link commit       GP FPSG = 25.00
+[16:38:50]** Message: avm render  GP FPSG = 25.00
+[16:38:50]
+[16:38:53][ 2005.248917] reboot: Restarting system
+[16:38:53]
+[16:38:53]U-Boot SPL 2016.05-00244-g3a1481a (Mar 31 2019 - 14:25:33)
+[16:38:53]DRA722-GP ES2.0
+[16:38:53]Trying to boot from MMC2
+[16:38:54][    0.000000] Reserved memory: regions without no-map are not yet supported
+[16:38:54][    0.000000] Reserved memory: regions without no-map are not yet supported
+[16:38:54][    0.001964] /cpus/cpu@0 missing clock-frequency property
+[16:38:55][    0.564796] genirq: Flags mismatch irq 228. 00002003 (4809c000.mmc cd) vs. 00002003 (mmc1)
+[16:38:55][    0.580077] omap_voltage_late_init: Voltage driver support not added
+[16:38:55]INIT: version 2.88 booting
+[16:38:55][    0.994770] first init....times = 0 ret = 0
+[16:38:55]Loaded PowerVR consumer services.
+[16:38:55]setting pwm for camera isp frame sync
+[16:38:55]dumpe2fs 1.43-WIP (18-May-2015)
+[16:38:56]The file system in mmcblk0gp1p1 partitiong was successfully mounted
+[16:38:56]
+[16:38:56]
+[16:38:56]start svp...
+[16:38:56]core file size          (blocks, -c) unlimited
+[16:38:56]data seg size           (kbytes, -d) unlimited
+[16:38:56]scheduling priority             (-e) 0
+[16:38:56]file size               (blocks, -f) unlimited
+[16:38:56]pending signals                 (-i) 2061
+[16:38:56]max locked memory       (kbytes, -l) 64
+[16:38:56]max memory size         (kbytes, -m) unlimited
+[16:38:56]open files                      (-n) 1024
+[16:38:56]pipe size            (512 bytes, -p) 8
+[16:38:56]POSIX message queues     (bytes, -q) 819200
+[16:38:56]real-time priority              (-r) 0
+[16:38:56]stack size              (kbytes, -s) 8192
+[16:38:56]cpu time               (seconds, -t) unlimited
+[16:38:56]max user processes              (-u) 2061
+[16:38:56]virtual memory          (kbytes, -v) unlimited
+[16:38:56]file locks                      (-x) unlimited
+[16:38:56][APP] APP_VERSION    :T1A_S190412_2F57C9
+[16:38:56][APP] APP_BUILD_TIME :2019-04-12 17:03:20
+[16:38:56][APP] BSP_VERSION    :T1A-S_D190413_15C771
+[16:38:56][APP] OS_VERSION    :CHERY-S_O190331_8F595C
+[16:38:56][APP] PLATFORM_VERSION    :AB02A3.0_TXX_19.03.03
+[16:38:56][SVP] Starting ...
+[16:38:56]T1A
+[16:38:56]killall: lad_dra7xx: no process killed
+[16:38:56]
+[16:38:56]Opened log file: lad.txt
+[16:38:56]
+[16:38:56]numProcessors = 5 id = 0 baseId = 0
+[16:38:56]
+[16:38:56]Spawned daemon: /usr/bin/lad_dra7xx
+[16:38:56]
+[16:38:56][SVP] Starting Service - "persist_service"
+[16:38:56][SVP] Starting Service - "remote_vehicle_service"
+[16:38:56][SVP] Starting Service - "/opt/vision_sdk/apps.out"
+[16:38:56][SVP] Starting Service - "avm3d_service"
+[16:38:56][SVP] Starting Service - "avm3d_app"
+[16:38:56][    1.960416] omap_l3_noc 44000000.ocp: L3 application error: target 3 mod:2 (unclearable)
+[16:38:56][    1.968608] omap_l3_noc 44000000.ocp: L3 debug error: target 3 mod:2 (unclearable)
+[16:38:56][SPI] bus start!!![    2.008287] mcu_spi open device use BLOCK flag
+[16:38:56]
+[16:38:56]dvr enable = 0 
+[16:38:56]** Message: Platform:InitStep=1
+[16:38:56][SPI] 0000002070 | Write: 04 54 01 03 00 03 00 
+[16:38:56]** Message: DR: relocation
+[16:38:56]** Message: DR:relocation show_line value 1
+[16:38:56]** Message: sreen width is 1920
+[16:38:56]** Message: sreen height is 720
+[16:38:56]** Message: Platform:InitStep=2
+[16:38:56]** Message: Platform:InitStep=3
+[16:38:56]** Message: Platform:InitStep=4
+[16:38:56]** Message: Platform:InitStep=5
+[16:38:56][SPI] 0000002095 | Read : 01 51 01 03 00 02 00 
+[16:38:56]** Message: SPI_ADAPTER:RMT_EVENT_POWER_MODE_CHANGED(0x5101) : param1=2, param2=0
+[16:38:56]
+[16:38:56][SPI] 0000002095 | Write: 04 54 01 03 00 01 00 
+[16:38:56]** Message: Platform:InitStep=6
+[16:38:56]** Message: Platform:InitStep=7
+[16:38:56]** Message: Platform:InitStep=8
+[16:38:56]** Message: ================================= valid calib data in norflash ORIG, dump it ============================== 
+[16:38:56]
+[16:38:56]** Message: Platform:InitStep=9
+[16:38:56]** Message: Platform:InitStep=10
+[16:38:56]** Message: Platform:InitStep=11
+[16:38:56]** Message: Platform:InitStep=12
+[16:38:56]** Message: thread LoopTask, 0xce3400
+[16:38:56]
+[16:38:56]** Message: thread Run, 0xce3400
+[16:38:56]
+[16:38:56]** Message: AVM send calib params succeed
+[16:38:56]** Message: AVM:InitStep=1/14 end top cache!
+[16:38:56]** Message: AVM:InitStep=2/14 end around cache!
+[16:38:56]** Message: wjr PVRControlTask, PVRControlTask
+[16:38:56]
+[16:38:56]** Message: Platform:InitStep=13
+[16:38:56]** Message: thread PVRControlTask, 0xce3430
+[16:38:56]
+[16:38:56] [HOST]  OSA: MEM: 0: Mapped 0xa0100000 to 0xb4100000 of size 0x00100000 
+[16:38:56] [HOST]  OSA: MEM: 1: Mapped 0x84203000 to 0xa4700000 of size 0x0fa00000 
+[16:38:56] [HOST]  OSA: MEM: 2: Mapped 0xa0200000 to 0xb431c000 of size 0x00040000 
+[16:38:56] [HOST]  OSA: MEM: 3: Mapped 0xa02c0000 to 0xa4680000 of size 0x00080000 
+[16:38:56] [HOST]  OSA: MEM: 4: Mapped 0x00000000 to 0x00000000 of size 0x00000000 
+[16:38:56]OSA_memInit : 0
+[16:38:56]
+[16:38:56]OSA_dmaInit : 0
+[16:38:56]
+[16:38:56]drm device : /dev/dri/card0 is exist
+[16:38:56]
+[16:38:56]         HAL:avm:InitStep=2 
+[16:38:56]
+[16:38:56]         HAL:avm:InitStep=3 
+[16:38:56]
+[16:38:56]failed to load module: /usr/lib/gbm/gbm_dri.so: cannot open shared object file: No such file or directory
+[16:38:56]failed to load module: /usr/lib/gbm/gbm_gallium_drm.so: cannot open shared object file: No such file or directory
+[16:38:56]loaded module : gbm_pvr.so
+[16:38:56]found valid GBM backend : gbm_pvr.so
+[16:38:56]** Message: Platform:InitStep=14
+[16:38:56]** Message: Platform:InitStep=15
+[16:38:56]** Message: Platform:InitStep=16
+[16:38:56]** Message: Platform:InitStep=17
+[16:38:56]** Message: wjr DynamicCalibTask, DynamicCalibTask
+[16:38:56]
+[16:38:56]         HAL:avm:InitStep=4 
+[16:38:56]
+[16:38:56]** Message: thread DynamicCalibTask, 0xce3460
+[16:38:56]
+[16:38:56]** Message: wjr APSDetectionTask, APSDetectionTask
+[16:38:56]
+[16:38:56]** Message: DR mShowLine 1
+[16:38:56]** Message: wjr RelocationTask, RelocationTask
+[16:38:56]
+[16:38:56]** Message: Platform:InitStep=18
+[16:38:56]** Message: Platform:InitStep=19
+[16:38:56]** Message: Platform:InitStep=20
+[16:38:56]** Message: Platform:InitStep=21
+[16:38:56]** Message: Platform:InitStep=22
+[16:38:56]** Message: Platform:InitStep=23
+[16:38:56]** Message: &&&&&&&&&&&&&&&& PauseCalib end
+[16:38:56]** Message: thread RelocationThread, 0xce34f0
+[16:38:56]
+[16:38:56]** Message: thread RelocationTask, 0xce3520
+[16:38:56]
+[16:38:56]** Message: detection OnStart start 5
+[16:38:56]** Message: ------DetectOperatorBase::Init model: 4---------
+[16:38:56]
+[16:38:56]** Message: thread ThreadProc, 0xce3550
+[16:38:56]
+[16:38:56]** Message: thread LoopTask, 0xce3580
+[16:38:56]
+[16:38:56]** Message: thread APSDetectionTask, 0xce34c0
+[16:38:56]
+[16:38:56]** Message: detection OnStart start 5
+[16:38:56]** Message: ------DetectOperatorBase::Init model: 0---------
+[16:38:56]
+[16:38:56]** Message: thread LoopTask, 0xce3490
+[16:38:56]
+[16:38:56]** Message: APSDetectThread::Run Run, 0xce3490
+[16:38:56]
+[16:38:56]** Message: thread CallbackThread, 0xce4920
+[16:38:56]
+[16:38:56][IDA-Debug|0xB6F41000]: [       main.cpp]: App Starting... Thread id:135,Process id=135.
+[16:38:56]qt CMEM_allocPhys2 begin...
+[16:38:56] (No such file or directory)
+[16:38:56] qt CMEM_allocPhys2 end..pa =  94600000.
+[16:38:56] (Invalid argument)
+[16:38:56] qt vaddr..  b5362000.
+[16:38:56] (Invalid argument)
+[16:38:57]         HAL:avm:InitStep=6 
+[16:38:57]
+[16:38:57]Display initialized, Render thread created
+[16:38:57]** Message: thread recv_thread, 0xb5b07a60
+[16:38:57]
+[16:38:57]** Message: 20190320 AVM:InitStep=3/14 end create_camera_device!
+[16:38:57]** Message: thread post_thread, 0xd1db20
+[16:38:57]
+[16:38:57] vaddr = b5362000 
+[16:38:57]sreen width is 1920sreen height is 720
+[16:38:57]### QT CMEM_allocPhys2 begin...
+[16:38:57]### QT CMEM_allocPhys2 end..  0x94c00000.
+[16:38:57]### QT CMEM_allocPhys2 begin...
+[16:38:57]### QT CMEM_allocPhys2 end..  0x95200000.
+[16:38:57]### QT CMEM_allocPhys2 begin...
+[16:38:57]### QT CMEM_allocPhys2 end..  0x95800000.
+[16:38:57] capture CMEM_allocPhys2 end..  0x2b095e00000.
+[16:38:57][IDA-Debug|0xB6F41000]: [      CommonCfg]: [IDA] common configs: dump start~
+[16:38:57]bInit:1,
+[16:38:57]project:T1A
+[16:38:57]usbstorage:usbstorage1
+[16:38:57]hub_usbstorage:hub_usbstorage0
+[16:38:57]avmMaxSpd:20
+[16:38:57]avmExitSpd:30
+[16:38:57]avmTurnHiEntrySpd:30
+[16:38:57]avmTurnHiExitSpd:25
+[16:38:57]modMaxSpd:15
+[16:38:57]modExitSpd:25
+[16:38:57]pdMaxSpd:15
+[16:38:57]pdExitSpd:25
+[16:38:57]bsdEntrySpd:30
+[16:38:57]bsdExitSpd:25
+[16:38:57]RadarEntrySpd:15
+[16:38:57]RadarExitSpd:15
+[16:38:57]apaSearchMaxSpd:40
+[16:38:57]apaSearchResSpd:36
+[16:38:57][IDA] common configs: dump end~
+[16:38:57][IDA-Debug|0xB6F41000]: [CAvmModeDataSou]: Load Local(xml) view mode data - start.
+[16:38:57]** Message: AVM:InitStep=4/14 end car init!
+[16:38:57]** Message: Platform:InitStep=24
+[16:38:57]** Message: Platform:InitStep=25
+[16:38:57]** Message: Platform:InitStep=26
+[16:38:57]** Message: Platform:InitStep=27
+[16:38:57]** Message: thread LoopTask, 0xce3660
+[16:38:57]
+[16:38:57]** Message: thread Run, 0xce3660
+[16:38:57]
+[16:38:57]** Message: thread LoopTask, 0xce3630
+[16:38:57]
+[16:38:57]** Message: thread Run, 0xce3630
+[16:38:57]
+[16:38:57]** Message: thread LoopTask, 0xce3600
+[16:38:57]
+[16:38:57]** Message: thread Run, 0xce3600
+[16:38:57]
+[16:38:57]** Message: thread LoopTask, 0xce35b0
+[16:38:57]
+[16:38:57]** Message: thread Run, 0xce35b0
+[16:38:57]
+[16:38:57][    2.938756] Enable CSI to get camera data
+[16:38:57][    2.942861] gmsl_lock trigged
+[16:38:57][    2.945883] Enable csi_data_switch in while loop
+[16:38:57]** Message: AVM:InitStep=5/14 end top init!
+[16:38:57]** Message: AVM:InitStep=6/14 end around init!
+[16:38:57]** Message: Platform:InitStep=28
+[16:38:57]** Message: sharemsg_recvDmabuffer 3 
+[16:38:57]
+[16:38:57]** Message: minigui buffer len is 3 pa[0]= 94c00000 , pa[1] = 95200000 
+[16:38:57]
+[16:38:57]** Message: 32:1920x720
+[16:38:57]init_minigui_dev Display..
+[16:38:57]disp_open_minigui
+[16:38:57]init_minigui_dev Display end..
+[16:38:57]** Message: minigui_out_pa_bo_create++++++
+[16:38:57]
+[16:38:57]disp_get_vid_buffers_minigui
+[16:38:57]disp_minigui callback is 0x54501
+[16:38:57]minigui CMEM_allocPhys2  pa = 94c00000...
+[16:38:57]
+[16:38:57]minigui cmem vaddr 97dba000  
+[16:38:57]
+[16:38:57]minigui cmem vaddr 97dba000  
+[16:38:57]
+[16:38:57]minigui CMEM_allocPhys2  pa = 95200000...
+[16:38:57]
+[16:38:57]minigui cmem vaddr 97874000  
+[16:38:57]
+[16:38:57]minigui cmem vaddr 97874000  
+[16:38:57]
+[16:38:57]minigui CMEM_allocPhys2  pa = 95800000...
+[16:38:57]
+[16:38:57]minigui cmem vaddr 9732e000  
+[16:38:57]
+[16:38:57]minigui cmem vaddr 9732e000  
+[16:38:57]
+[16:38:57]bo create minigui pa  2495610880 
+[16:38:57]
+[16:38:57]bo create minigui pa  2501902336 
+[16:38:57]
+[16:38:57]bo create minigui pa  2508193792 
+[16:38:57]
+[16:38:57]** Message: minigui_out_pa_bo_create--------
+[16:38:57]
+[16:38:57]** Message: traj_flip_buf[0]: 5529600
+[16:38:57]
+[16:38:57]** Message: traj_flip_buf[1]: 5529600
+[16:38:57]
+[16:38:57]** Message: traj_flip_buf[2]: 5529600
+[16:38:57]
+[16:38:57][IDA-Debug|0xB6F41000]: [CAvmModeDataSou]: Load Local(xml) view mode data - end.
+[16:38:57][IDA-Debug|0xB6F41000]: [   CalibPresent]: image_coordination path:/svp/etc/T1A/params/algorithm/calibfield/desay/manucalib/image_coordination.xml
+[16:38:57][IDA-Debug|0xB6F41000]: [   CalibPresent]: calibration_params_manu path:/svp/etc/T1A/params/algorithm/calibfield/desay/manucalib/calibration_params_manu.xml
+[16:38:57]** Message: START_WHEEL_ANGLE -32  END_WHEEL_ANGLE 32
+[16:38:57][IDA-Debug|0xAF9E7450]: [  AvmMsgHandler]: Thread id:227, Thread name:workThread
+[16:38:57][IDA-Debug|0xB01E7450]: [   AppDebugMode]: Thread id:226, Thread name:AppDebugThread
+[16:38:57][IDA-Debug|0xB01E7450]: [  APP Simulator]: ---- AppDebugMode App Test msg thread start
+[16:38:57][IDA-Debug|0xB09E7450]: [RemoteMsgManage]: Thread id:225, Thread name:receive_signal_relocationthread
+[16:38:57][IDA-Debug|0xB11E7450]: [RemoteMsgManage]: Thread id:224, Thread name:receive_signal_msgQthread
+[16:38:57][IDA-Debug|0xB19E7450]: [RemoteMsgManage]: Thread id:223, Thread name:rmt_msg_thread
+[16:38:57][IDA-Debug|0xB19E7450]: [RemoteMsgManage]: ---- RemoteMsgManager rmt_msg_thread start
+[16:38:57][IDA-Debug|0xAF9E7450]: [  AvmMsgHandler]: AVMApp Init start - Wait for bus ready (1/3)!!!
+[16:38:57][IDA-Debug|0xB21E7450]: [    AvmAppModel]: Thread id:222, Thread name:_app_mode_busthread
+[16:38:58][IDA-Debug|0xB19E7450]: [RemoteMsgManage]: RemoteMsgManager thread subscribe signal done! 
+[16:38:58][IDA-Debug|0xB19E7450]: [RemoteMsgManage]: RemoteMsgManager, watch bus name com.desaysv.bus.SignalService
+[16:38:58][IDA-Debug|0xB19E7450]: [RemoteMsgManage]: ----call bus connect
+[16:38:58][IDA-Debug|0xB19E7450]: [RemoteMsgManage]: ----bus connected!!
+[16:38:58][IDA-Debug|0xAF9E7450]: [  AvmMsgHandler]: AVMApp Init do - Setup avm 3d viewports (2/3)!!!
+[16:38:58][IDA-Infor|0xAF9E7450]: [      AppConfig]: checkSum value=252 
+[16:38:58][IDA-Debug|0xAF9E7450]: [     AvmPresent]: AvmPresent SetCarColor:0
+[16:38:58][IDA-Debug|0xAF9E7450]: [    AvmAppModel]: update_car_set_value E_MODETEMPLATE_TOPVIEW
+[16:38:58][IDA-Debug|0xAF9E7450]: [    AvmAppModel]: E_MODETEMPLATE_TOPVIEW 
+[16:38:58][IDA-Debug|0xAF9E7450]: [    AvmAppModel]: Raw's traj:mVisible=0
+[16:38:58][IDA-Debug|0xAF9E7450]: [    AvmAppModel]: Top's traj: mVisible=0, mIsChanged=1, mTrajShowCfg=3, mTrajType=1
+[16:38:58][IDA-Debug|0xAF9E7450]: [     AvmPresent]: AvmPresent SetTurnLowSwt:1
+[16:38:58][IDA-Debug|0xAF9E7450]: [     AvmPresent]: AvmPresent SetTurnTriggerSwitch:1
+[16:38:58][IDA-Debug|0xAF9E7450]: [     AvmPresent]: AvmPresent SetTurnHighSwt:0
+[16:38:58][IDA-Debug|0xAF9E7450]: [     AvmPresent]: AvmPresent DynamicTrajSwitch:1
+[16:38:58][IDA-Debug|0xAF9E7450]: [     AvmPresent]: SetTraj:rawTrajFront[0:hide,bit0=static,bit1=dynamic]:0, rawTrajRear[0:hide,bit0=static,bit1=dynamic]:0,Top[0:hide,1=front,2=rear]:1
+[16:38:58][IDA-Debug|0xAF9E7450]: [    AvmAppModel]: E_MODETEMPLATE_TOPVIEW 
+[16:38:58][IDA-Debug|0xAF9E7450]: [    AvmAppModel]: Raw's traj:mVisible=0
+[16:38:58][IDA-Debug|0xAF9E7450]: [    AvmAppModel]: Top's traj: mVisible=0, mIsChanged=1, mTrajShowCfg=3, mTrajType=1
+[16:38:58][IDA-Debug|0xAF9E7450]: [     AvmPresent]: AvmPresent TouringViewSwitch:1
+[16:38:58][IDA-Debug|0xAF9E7450]: [     AvmPresent]: AvmPresent SetPdSwitch:0
+[16:38:58][IDA-Debug|0xAF9E7450]: [     AvmPresent]: AvmPresent SetModSwitch:0
+[16:38:58][IDA-Debug|0xAF9E7450]: [     AvmPresent]: AvmPresent SetBAFSwitch:0
+[16:38:58][IDA-Debug|0xAF9E7450]: [     AvmPresent]: AvmPresent SetBsdSwitch:0
+[16:38:58][SPI] 0000003486 | Write: 04 44 39 02 00 00 
+[16:38:58][IDA-Debug|0xAF9E7450]: [     AvmPresent]: SetCarOpacity(255)
+[16:38:58][IDA-Debug|0xAF9E7450]: [    AvmAppModel]: update_car_set_value E_MODETEMPLATE_TOPVIEW
+[16:38:58][IDA-Debug|0xAF9E7450]: [    AvmAppModel]: E_MODETEMPLATE_TOPVIEW 
+[16:38:58][IDA-Debug|0xAF9E7450]: [    AvmAppModel]: Raw's traj:mVisible=0
+[16:38:58][IDA-Debug|0xAF9E7450]: [    AvmAppModel]: Top's traj: mVisible=0, mIsChanged=1, mTrajShowCfg=3, mTrajType=1
+[16:38:58][IDA-Debug|0xAF9E7450]: [     AvmPresent]: AvmPresent SetRadarSwitch:1
+[16:38:58][IDA-Debug|0xAF9E7450]: [     AvmPresent]: AvmPresent SetLanguage:E_LANGUAGE_CHN
+[16:38:58]
+[16:38:58](process:134): GLib-CRITICAL **: g_variant_new_string: assertion 'g_utf8_validate (string, -1, NULL)' failed
+[16:38:58]
+[16:38:58](process:134): GLib-CRITICAL **: g_variant_new_string: assertion 'g_utf8_validate (string, -1, NULL)' failed
+[16:38:58][SPI] 0000003492 | Write: 04 44 11 09 00 01 01 01 01 00 00 00 00 
+[16:38:58][IDA-Debug|0xAF9E7450]: [    AvmAppModel]: ---- _init_after_busready - start!!
+[16:38:58][IDA-Debug|0xAF9E7450]: [    AvmAppModel]: ---- SetRawChannel(0),m_eCurr_channel=4
+[16:38:58][IDA-Debug|0xAF9E7450]: [    AvmAppModel]: E_MODETEMPLATE_TOPVIEW 
+[16:38:58][IDA-Debug|0xAF9E7450]: [    AvmAppModel]: Raw's traj: mVisible=1, mIsChanged=1, mTrajShowCfg=2, mTrajType=0
+[16:38:58][IDA-Debug|0xAF9E7450]: [    AvmAppModel]: Top's traj: mVisible=0, mIsChanged=1, mTrajShowCfg=3, mTrajType=2
+[16:38:58][IDA-Debug|0xAF9E7450]: [    AvmAppModel]: ---- [Func:SetDirection],3ddir=0
+[16:38:58]** Message: AVM:InitStep=7/14 end traj init!
+[16:38:58][SVP] Starting Service - "update_service"
+[16:38:58][SVP] Starting Service - "deamon_service"
+[16:38:58][SVP] Drop caches.
+[16:38:58][IDA-Debug|0xAF9E7450]: [    AvmAppModel]: ---- _init_after_busready - end!!
+[16:38:58][IDA-Debug|0xAF9E7450]: [    AvmAppModel]: ---- SetRawChannel(0),m_eCurr_channel=0
+[16:38:58][IDA-Debug|0xAF9E7450]: [     AvmPresent]: AvmPresent SetDirection:0
+[16:38:58][IDA-Debug|0xAF9E7450]: [     AvmPresent]: AvmPresent SetViewMode:1
+[16:38:58][IDA-Debug|0xAF9E7450]: [    AvmAppModel]: AvmAppModel SetViewMode=1, chn=13
+[16:38:58][IDA-Debug|0xAF9E7450]: [    AvmAppModel]: Raw's traj: mVisible=1, mIsChanged=1, mTrajShowCfg=2, mTrajType=0
+[16:38:58][IDA-Debug|0xAF9E7450]: [    AvmAppModel]: Top's traj: mVisible=0, mIsChanged=1, mTrajShowCfg=3, mTrajType=2
+[16:38:58]ERROR:  [SVP_LOG]  [FUNC:Update , LINE:183] rawChn.mAngle 48, rawChn.mChannel 0, rawChn.mIsUndistort 0, rawChn.mViewCfg.center_x 0.500000, rawChn.mViewCfg.center_y 0.430000, rawChn.mViewCfg.height 0.820000, rawChn.mViewCfg.h_flip 0, rawChn.mViewCfg.rotation_degree 0.610000, rawChn.mViewCfg.width -0.000000
+[16:38:58] 
+[16:38:58][IDA-Infor|0xAF9E7450]: [     ReadyState]: ---->state: ReadyState
+[16:38:58][SPI] 0000003857 | Write: 04 44 2D 03 00 00 00 
+[16:38:58][SPI] 0000003861 | Write: 04 44 12 02 00 00 
+[16:38:58][SPI] 0000003864 | Write: 02 42 02 02 00 00 
+[16:38:58][SPI] 0000003871 | Write: 02 42 01 02 00 00 
+[16:38:58]** Message: AVM:InitStep=8/14 end radar init!
+[16:38:58]** Message: AVM:InitStep=9/14 end detect init!
+[16:38:58][SPI] 0000003886 | Read : 04 44 0D 02 00 02 
+[16:38:58][SPI] 0000003887 | Read : 04 44 0A 0E 00 FA FA FA FA FA FA FA FA FA FA FA FA 00 
+[16:38:58][SPI] 0000003888 | Read : 04 44 43 02 00 00 
+[16:38:58][SPI] 0000003889 | Read : 04 44 29 03 00 00 00 
+[16:38:58][SPI] 0000003901 | Read : 04 44 05 02 00 00 
+[16:38:58]** Message: wrong msg id[0x4405]
+[16:38:58][SPI] 0000003902 | Read : 04 44 21 02 00 00 
+[16:38:58]** Message: receive reverse gear 0
+[16:38:58]
+[16:38:58][SPI] 0000003916 | Read : 04 44 03 02 00 00 
+[16:38:58]** Message: wjr : register traj cache callback
+[16:38:58][SPI] 0000003937 | Read : 04 44 0C 08 00 00 00 00 00 00 00 00 
+[16:38:58][SPI] 0000003950 | Read : 04 44 44 09 00 00 00 00 00 00 00 00 00 
+[16:38:58][SPI] 0000003951 | Read : 04 44 09 03 00 00 00 
+[16:38:58]** Message: ============RegisteaParamSaveCallback();==================
+[16:38:58][SPI] 0000003975 | Read : 03 43 01 16 00 54 31 41 2D 53 5F 4D 31 39 30 34 31 33 5F 30 30 30 30 31 33 00 
+[16:38:58]** Message: ----------callback->iMethodID == SIGNAL_ID_VIEWMODE_TYPE--------
+[16:38:58]
+[16:38:58]deamon service :process is start
+[16:38:58]** Message: [IDA]create '/dev/uinput' success, fd=8
+[16:38:58]
+[16:38:58]** Message: ++++debusstart_timer ++++bIsBusStartOK
+[16:38:58]
+[16:38:58]disp_get_vid_buffers
+[16:38:58]disp callback is 0x4bcd9
+[16:38:58]CMEM_allocPhys2 begin...
+[16:38:58]CMEM_allocPhys2 end...
+[16:38:58]buf width 288 ,buf height 512 ,buf pitchs 576 
+[16:38:58]
+[16:38:58]** Message: AVM:InitStep=10/14 end blind init!
+[16:38:58]** Message: AVM:InitStep=11/14 end seam init!
+[16:38:58]** Message: AVM:InitStep=12/14 end m_pShellList init!
+[16:38:58]Starting udev
+[16:38:59]** Message: AVM:InitStep=13/14 end color init!
+[16:38:59]** Message: PVRShell::Start() 0 m_ModeType 0
+[16:38:59]** Message: PVRShell::Start() 1
+[16:38:59]** Message: PVRShell::Start() 2
+[16:38:59]** Message: PVRShell::Start() 3
+[16:38:59]** Message: PVRShell::Start() 4
+[16:38:59]** Message: AVM:InitStep=14/14 OnStart() end
+[16:38:59]
+[16:38:59]** Message: Platform:InitStep=29
+[16:38:59]** Message: Platform:InitStep=30
+[16:38:59]** Message: WHEEL_ANGLE_START -32  WHEEL_ANGLE_END 32
+[16:38:59][IDA-Debug|0xB21E7450]: [AvmSvcSignalHan]: OnTrajCacheDone:1
+[16:38:59]ERROR:  [SVP_LOG]  [FUNC:get_traj_image_params , LINE:51] traj >> get_traj_image_params width2000  height1500  undistort_type1 1  angle62 46  
+[16:38:59] front cut0.500000 0.460000 0.550000 0.460000  rear cut0.500000 0.570000 0.470000 0.450000
+[16:38:59] 
+[16:38:59]find: /sys/block/mmcblk[1-9]/: No such file or directory
+[16:38:59]ERROR:create_texture:2674: glBindTexture!
+[16:38:59]Sat Jul 22 11:04:16 UTC 2017
+[16:38:59]INIT: Entering runlevel: 5
+[16:38:59]Configuring network interfaces... ** Message: avm init pri = 0 
+[16:38:59]
+[16:38:59]** Message: avm set pri = 0 
+[16:38:59]
+[16:39:00]** Message:  Camera are ok in libhal
+[16:39:00]done.
+[16:39:00]** Message: Platform:InitStep=31
+[16:39:00][IDA-Debug|0xB21E7450]: [AvmSvcSignalHan]: OnCameraInited:1029889
+[16:39:00][IDA-Debug|0xAF9E7450]: [  AvmMsgHandler]: AVMApp Init completed! - Camera init ok (3/3)!!!
+[16:39:00]** Message: thread LoopTask, 0x15b720
+[16:39:00]
+[16:39:00][IDA-Debug|0xAF9E7450]: [     AvmPresent]: AvmState: ReadyState        , [CAR]RDLMsg: E_RDL_MSG_VEHICLE_POWER_MODE 
+[16:39:00][IDA-Debug|0xAF9E7450]: [     AvmPresent]: RDL->CarPower:VEHICLE_POWER_ON(RUN)
+[16:39:00][IDA-Infor|0xAF9E7450]: [     ReadyState]: ---->state Leave: ReadyState
+[16:39:00][IDA-Infor|0xAF9E7450]: [      IdleState]: ---->state: IdleState
+[16:39:00][IDA-Debug|0xAF9E7450]: [     AvmPresent]: AvmPresent SetRecoverViewMode:1
+[16:39:00][IDA-Debug|0xAF9E7450]: [      IdleState]: ----> IdleState: car ign is 2.
+[16:39:00]disp_get_vid_buffers
+[16:39:00]disp callback is 0x4bcd9
+[16:39:00]CMEM_allocPhys2 begin...
+[16:39:00]CMEM_allocPhys2 end...
+[16:39:00][IDA-Debug|0xAF9E7450]: [     AvmPresent]: AvmState: IdleState         , [HMI]RDLMsg: E_RDL_MSG_HMI_RADAR_DISTANCE 
+[16:39:00][IDA-Debug|0xAF9E7450]: [     AvmPresent]: RDL->Radar:Radar.fr=244,.fl=244,.f1=244,.f2=244,.f3=244,.f4=244,.rr=244,.rl=244,.r1=244,.r2=244,.r3=244,.r4=244
+[16:39:00][IDA-Error|0xAF9E7450]: [     AvmPresent]: Unused Radar : 0
+[16:39:00][IDA-Error|0xAF9E7450]: [     AvmPresent]: Unused Radar : 1
+[16:39:00][IDA-Error|0xAF9E7450]: [     AvmPresent]: Unused Radar : 6
+[16:39:00][IDA-Error|0xAF9E7450]: [     AvmPresent]: Unused Radar : 7
+[16:39:00]buf width 700 ,buf height 600 ,buf pitchs 2800 
+[16:39:00]
+[16:39:00][IDA-Debug|0xAF9E7450]: [     AvmPresent]: AvmState: IdleState         , [CAR]RDLMsg: E_RDL_MSG_VEHICLE_RCTA_STATUS 
+[16:39:00][IDA-Debug|0xAF9E7450]: [     AvmPresent]: AvmState: IdleState         , [CAR]RDLMsg: E_RDL_MSG_VEHICLE_IP_SPEED 
+[16:39:00][IDA-Debug|0xAF9E7450]: [     AvmPresent]: RDL->CarIpSpeed:0
+[16:39:00][IDA-Debug|0xAF9E7450]: [     AvmPresent]: AvmState: IdleState         , [CAR]RDLMsg: E_RDL_MSG_VEHICLE_TURN_IND 
+[16:39:00][IDA-Debug|0xAF9E7450]: [     AvmPresent]: RDL->CarTurnInd:TURNLIGHTS_OFF
+[16:39:00][IDA-Debug|0xAF9E7450]: [    AvmAppModel]: ---- [Func:SetCarTurnLights],light_status=0,period=90
+[16:39:00]ERROR:  [SVP_LOG]  [FUNC:Draw , LINE:474] glBindTexture failed render for face!
+[16:39:00] 
+[16:39:00][IDA-Debug|0xAF9E7450]: [     AvmPresent]: AvmState: IdleState         , [CAR]RDLMsg: E_RDL_MSG_VEHICLE_DOOR_OPEN_STATS 
+[16:39:00][IDA-Debug|0xAF9E7450]: [     AvmPresent]: RDL->CarDoor:Door.driver=Close,.passenger=Close,.rearRight=Close,.rearLeft=Close,.trunk=Close,.hood=Close,.sunroof=Close
+[16:39:00][IDA-Debug|0xAF9E7450]: [     AvmPresent]: AvmState: IdleState         , [HMI]RDLMsg: E_RDL_MSG_HMI_PLATE_NUM_INFO 
+[16:39:00][IDA-Debug|0xAF9E7450]: [    AvmAppModel]: update_car_set_value E_MODETEMPLATE_TOPVIEW
+[16:39:00][IDA-Debug|0xAF9E7450]: [    AvmAppModel]: E_MODETEMPLATE_TOPVIEW 
+[16:39:00][IDA-Debug|0xAF9E7450]: [    AvmAppModel]: Raw's traj: mVisible=1, mIsChanged=1, mTrajShowCfg=2, mTrajType=0
+[16:39:00][IDA-Debug|0xAF9E7450]: [    AvmAppModel]: Top's traj: mVisible=0, mIsChanged=1, mTrajShowCfg=3, mTrajType=2
+[16:39:00]ERROR:  [SVP_LOG]  [FUNC:Draw , LINE:474] glBindTexture failed render for face!
+[16:39:00] 
+[16:39:00]ERROR:  [SVP_LOG]  [FUNC:Update , LINE:183] rawChn.mAngle 48, rawChn.mChannel 0, rawChn.mIsUndistort 0, rawChn.mViewCfg.center_x 0.500000, rawChn.mViewCfg.center_y 0.430000, rawChn.mViewCfg.height 0.820000, rawChn.mViewCfg.h_flip 0, rawChn.mViewCfg.rotation_degree 0.610000, rawChn.mViewCfg.width 0.000000
+[16:39:00] 
+[16:39:00][IDA-Debug|0xAF9E7450]: [     AvmPresent]: AvmState: IdleState         , [HMI]RDLMsg: E_RDL_MSG_HMI_RADIO_VERSION 
+[16:39:00][IDA-Debug|0xAF9E7450]: [     AvmPresent]: RDL->Radio Version:T1A-S_M190413_000013
+[16:39:00]ERROR:  [SVP_LOG]  [FUNC:Draw , LINE:474] glBindTexture failed render for face!
+[16:39:00] 
+[16:39:00]Starting system message bus: dbus.
+[16:39:00]insmod usb module driver
+[16:39:00]** Message: post commit   GP FPSG = 17.03
+[16:39:00]
+[16:39:00]Starting tiipclad daemon.
+[16:39:01]Enabling thermal zones...
+[16:39:01][IDA-Debug|0xAF9E7450]: [      TimerTask]: Excute timer Task:TM_AvtiveDefView
+[16:39:01]
+[16:39:01] _____                    _____           _         _   
+[16:39:01]|  _  |___ ___ ___ ___   |  _  |___ ___  |_|___ ___| |_ 
+[16:39:01]|     |  _| .'| . | . |  |   __|  _| . | | | -_|  _|  _|
+[16:39:01]|__|__|_| |__,|_  |___|  |__|  |_| |___|_| |___|___|_|  
+[16:39:01]              |___|                    |___|            
+[16:39:01]
+[16:39:01]Arago Project http://arago-project.org t1a-s /dev/ttyS2
+[16:39:01]
+[16:39:01]Arago 2016.12 t1a-s /dev/ttyS2
+[16:39:01]
+[16:39:01]t1a-s login: [IDA-Debug|0xB6F41000]: [     AvmPresent]: SetCarOpacity(255)
+[16:39:01][IDA-Debug|0xB6F41000]: [    AvmAppModel]: update_car_set_value E_MODETEMPLATE_TOPVIEW
+[16:39:01][IDA-Debug|0xB6F41000]: [    AvmAppModel]: E_MODETEMPLATE_TOPVIEW 
+[16:39:01][IDA-Debug|0xB6F41000]: [    AvmAppModel]: Raw's traj: mVisible=1, mIsChanged=1, mTrajShowCfg=2, mTrajType=0
+[16:39:01][IDA-Debug|0xB6F41000]: [    AvmAppModel]: Top's traj: mVisible=0, mIsChanged=1, mTrajShowCfg=3, mTrajType=2
+[16:39:01]ERROR:  [SVP_LOG]  [FUNC:Update , LINE:183] rawChn.mAngle 48, rawChn.mChannel 0, rawChn.mIsUndistort 0, rawChn.mViewCfg.center_x 0.500000, rawChn.mViewCfg.center_y 0.430000, rawChn.mViewCfg.height 0.820000, rawChn.mViewCfg.h_flip 0, rawChn.mViewCfg.rotation_degree 0.610000, rawChn.mViewCfg.width 0.000000
+[16:39:01] 
+[16:39:01]ERROR:  [SVP_LOG]  [FUNC:Draw , LINE:474] glBindTexture failed render for face!
+[16:39:01] 
+[16:39:01]qml: avmtop state chaged= topview_front
+[16:39:01]qml: avmtop state chaged= topview_front
+[16:39:01]qml: Current language: tr_default
+[16:39:01]**IDA App Window Width:1920, Height:720**
+[16:39:01][IDA] QT App running...
+[16:39:03]** Message: post commit   GP FPSG = 29.71
+[16:39:03]
+[16:39:03]record link commit       GP FPSG = 10.62
+[16:39:03]** Message: avm render  GP FPSG = 10.59
+[16:39:03]
+[16:39:07]** Message: post commit   GP FPSG = 30.00
+[16:39:07]
+
+
+
+
+
+
+
+
+
+
+
+===================================
+
+update by usb
+
+===================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[16:39:35]
+[16:39:37]** Message: post commit   GP FPSG = 30.00
+[16:39:37]
+[16:39:37][   42.624819] scsi 1:0:0:0: rejecting I/O to offline device
+[16:39:37][   42.630291] scsi 1:0:0:0: rejecting I/O to offline device
+[16:39:37][   42.635860] blk_update_request: I/O error, dev sda, sector 182575
+[16:39:37][   42.642079] blk_update_request: I/O error, dev sda, sector 182815
+[16:39:37][   42.664936] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.670148] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.675322] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.680493] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.685663] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.690831] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.695999] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.701273] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.706443] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.711610] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.716778] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.721946] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.727114] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.732283] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.737452] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.742620] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.747869] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.753038] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.758206] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.763374] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.768544] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.773712] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.778880] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.784049] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.789216] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.794466] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.799634] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.804802] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.809972] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.815140] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.820307] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.825476] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.830644] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.835812] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.841061] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.846229] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.851398] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.856566] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.861733] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.866901] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.872068] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.877235] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.882403] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.887656] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.892824] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.897991] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.903161] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.908329] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.913496] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.918664] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.923831] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.928999] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.934248] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.939417] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.944584] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.949751] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.954920] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.960087] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.965255] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.970423] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.975591] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.980843] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.986012] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.991180] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   42.996348] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   43.001515] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   43.006684] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   43.011853] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   43.017021] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37][   43.022189] scsi 1:0:0:0: rejecting I/O to dead device
+[16:39:37]md5sum: can't read 'AB02A_firmware.swu': Input/output error
+[16:39:37]** Message: md5sum fail: cd /media/usbstorage1/ && md5sum AB02A_firmware.swu > /tmp/check.md5
+[16:39:40]record link commit       GP FPSG = 22.94
+[16:39:40]** Message: avm render  GP FPSG = 22.94
+[16:39:40]
+[16:39:40][   46.274838] usb usb1-port1: connect-debounce failed
+[16:39:40]** Message: post commit   GP FPSG = 26.79
+[16:39:40]
+[16:39:44]** Message: post commit   GP FPSG = 30.00
+[16:39:44]
+[16:39:44]record link commit       GP FPSG = 25.00
+[16:39:44]** Message: avm render  GP FPSG = 25.00
+[16:39:44]
+[16:39:47]** Message: post commit   GP FPSG = 29.99
+[16:39:47]
+[16:39:48]record link commit       GP FPSG = 25.00
+[16:39:48]** Message: avm render  GP FPSG = 25.00
+[16:39:48]
+[16:39:50]** Message: post commit   GP FPSG = 30.00
+[16:39:50]
+[16:39:52]record link commit       GP FPSG = 25.00
+[16:39:52]** Message: avm render  GP FPSG = 25.00
+[16:39:52]
+[16:39:54]** Message: post commit   GP FPSG = 30.00
+[16:39:54]
+[16:39:55][   60.584970]  remoteproc1: failed to load dra7-dsp1-fw.xe66
+[16:39:56]record link commit       GP FPSG = 25.00
+[16:39:56]** Message: avm render  GP FPSG = 25.00
+[16:39:56]
+[16:39:57]** Message: post commit   GP FPSG = 29.99
+[16:39:57]
+[16:40:00]record link commit       GP FPSG = 25.00
+[16:40:00]** Message: avm render  GP FPSG = 25.00
+[16:40:00]
+[16:40:00]** Message: post commit   GP FPSG = 30.00
+[16:40:00]
+[16:40:04]** Message: post commit   GP FPSG = 30.00
+[16:40:04]
+[16:40:04]record link commit       GP FPSG = 25.00
+[16:40:04]** Message: avm render  GP FPSG = 25.00
+[16:40:04]
+[16:40:07]** Message: post commit   GP FPSG = 30.00
+[16:40:07]
+[16:40:08]record link commit       GP FPSG = 25.00
+[16:40:08]** Message: avm render  GP FPSG = 25.00
+[16:40:08]
+[16:40:10]** Message: post commit   GP FPSG = 30.00
+[16:40:10]
+[16:40:12]record link commit       GP FPSG = 25.00
+[16:40:12]** Message: avm render  GP FPSG = 24.99
+[16:40:12]
+[16:40:14]** Message: post commit   GP FPSG = 29.99
+[16:40:14]
+[16:40:16]record link commit       GP FPSG = 25.00
+[16:40:16]** Message: avm render  GP FPSG = 25.01
+[16:40:16]
+[16:40:17]** Message: post commit   GP FPSG = 30.00
+[16:40:17]
+[16:40:20]record link commit       GP FPSG = 25.00
+[16:40:20]** Message: avm render  GP FPSG = 24.97
+[16:40:20]
+[16:40:20]** Message: NormalUpdateDetect:  md5sum Compare different!!
+[16:40:20][SPI] 0000086030 | Write: 00 00 00 03 00 02 01 
+[16:40:20]** Message: post commit   GP FPSG = 30.00
+[16:40:20]
+[16:40:21]Selecting failsafe boot mode.
+[16:40:21]spi_test[   87.067413] mcu_spi open device use NONBLOCK flag
+[16:40:21]
+[16:40:23]spi_test start writing
+[16:40:23]
+[16:40:23]argv[1]:upgrade_start
+[16:40:23]
+[16:40:23]upgrade start
+[16:40:23]
+[16:40:23]write data:04,54,13,03,00,01,00,
+[16:40:23]found MLO in /dev/mmcblk0boot1
+[16:40:23]tr: short write
+[16:40:23]** Message: reboot to update!
+[16:40:24]** Message: post commit   GP FPSG = 30.00
+[16:40:24]
+[16:40:24]record link commit       GP FPSG = 25.01
+[16:40:24]** Message: avm render  GP FPSG = 25.03
+[16:40:24]
+[16:40:24]** Message: Radio don't reboot the core board!
+[16:40:26][   92.180367] reboot: Restarting system
+[16:40:26]
+[16:40:26]U-Boot SPL 2016.05-00242-gad72a0b (Mar 23 2019 - 12:43:01)
+[16:40:26]DRA722-GP ES2.0
+[16:40:26]Trying to boot from MMC2
+[16:40:27][    0.000000] Reserved memory: regions without no-map are not yet supported
+[16:40:27][    0.000000] Reserved memory: regions without no-map are not yet supported
+[16:40:27][    0.001963] /cpus/cpu@0 missing clock-frequency property
+[16:40:27][    0.544210] genirq: Flags mismatch irq 228. 00002003 (4809c000.mmc cd) vs. 00002003 (mmc1)
+[16:40:27][    0.569213] omap_voltage_late_init: Voltage driver support not added
+[16:40:28]INIT: version 2.88 booting
+[16:40:28]Version:2010903
+[16:40:28]/mnt/storage/diff/upgrade/diff_target.s19 not exist
+[16:40:29]if debug please press c
+[16:40:31][    3.681966] FAT-fs (sda1): Volume was not properly unmounted. Some data may be corrupt. Please run fsck.
+[16:40:34]sh: c: unknown operand
+[16:40:34]INIT: Entering runlevel: 517
+[16:40:34]Configuring network interfaces... ifconfig: SIOCGIFFLAGS: No such device
+[16:40:34]done.
+[16:40:34]Starting syslogd/klogd: done
+[16:40:34]
+[16:40:34] _____                    _____           _         _   
+[16:40:34]|  _  |___ ___ ___ ___   |  _  |___ ___  |_|___ ___| |_ 
+[16:40:34]|     |  _| .'| . | . |  |   __|  _| . | | | -_|  _|  _|
+[16:40:34]|__|__|_| |__,|_  |___|  |__|  |_| |___|_| |___|___|_|  
+[16:40:34]              |___|                    |___|            
+[16:40:34]
+[16:40:34]Arago Project http://arago-project.org t1a-s /dev/ttyS2
+[16:40:34]
+[16:40:34]Arago 2016.12 t1a-s /dev/ttyS2
+[16:40:34]
+[16:40:36]t1a-s login: [    8.725860] EXT4-fs (mmcblk0p3): mounted filesystem with ordered data mode. Opts: (null)
+[16:40:36][    8.736097] 
+[16:40:36][    8.736097] mmc has the file .md5
+[16:40:36][    8.791061] Checking UDisk for software update package...
+[16:40:36][    8.796759] Software update package found, starting update...
+[16:40:36][    8.802629] Updating /media/usbstorage1/AB02A_firmware.swu...
+[16:40:36][    8.847695] Swupdate v2015.07.0
+[16:40:36][    8.847695] 
+[16:40:36][    8.847695] Licensed under GPLv2. See source distribution for detailed copyright notices.
+[16:40:36][    8.847695] 
+[16:40:36][    8.847695] Running on hardware Revision T1A-S
+[16:40:36][    8.847695] Registered handlers:
+[16:40:36][    8.847695]  flash
+[16:40:36][    8.847695]  raw
+[16:40:36][    8.847695]  rawfile
+[16:40:36][    8.847695]  shellscript
+[16:40:36][    8.847695]  preinstall
+[16:40:36][    8.847695]  postinstall
+[16:40:36][    8.847695] [NOTIFY] : SWUPDATE running :  [extract_sw_description] : Found file:
+[16:40:36][    8.847695]  filename sw-description
+[16:40:36][    8.847695]  size 2629
+[16:40:36][    8.847695]  checksum 0x2a30e VERIFIED
+[16:40:36][    8.847695] 
+[16:40:36][    8.910208] Version 0.1.1
+[16:40:36][    8.910208] [NOTIFY] : SWUPDATE running :  [parse_hw_compatibility] : Accepted Hw Revision : T1A-S
+[16:40:36][    8.928953] [NOTIFY] : SWUPDATE running :  [parse_hw_compatibility] : Accepted Hw Revision : T1C-S
+[16:40:36][    8.944863] [NOTIFY] : SWUPDATE running :  [parse_images] : Found Image: MLO in device : /dev/mmcblk0boot0 for handler raw
+[16:40:36][    8.944863] 
+[16:40:36][    8.965259] [NOTIFY] : SWUPDATE running :  [parse_images] : Found compressed Image: dataimg.ext4.gz in device : /dev/mmcblk0gp1p1 for handler raw
+[16:40:36][    8.965259] 
+[16:40:36][    8.986965] [NOTIFY] : SWUPDATE running :  [parse_images] : Found Image: uImage in device : /dev/mmcblk0p1 for handler raw
+[16:40:36][    8.986965] 
+[16:40:36][    9.006601] [NOTIFY] : SWUPDATE running :  [parse_images] : Found Image: dra72x-ab02a.dtb in device : /dev/mmcblk0p2 for handler raw
+[16:40:36][    9.006601] 
+[16:40:36][    9.027121] [NOTIFY] : SWUPDATE running :  [parse_images] : Found compressed Image: rootfsimg.ext4.gz in device : /dev/mmcblk0p3 for handler raw
+[16:40:36][    9.027121] 
+[16:40:36][    9.048801] [NOTIFY] : SWUPDATE running :  [parse_scripts] : Found Script: swupdate-script.sh
+[16:40:36][    9.048801] 
+[16:40:36][    9.065918] [NOTIFY] : SWUPDATE running :  [check_hw_compatibility] : Hardware hardware Revision: T1A-S
+[16:40:36][    9.082530] [NOTIFY] : SWUPDATE running :  [check_hw_compatibility] : Hardware compatibility verified
+[16:40:36][    9.098878] [NOTIFY] : SWUPDATE running :  [cpio_scan] : Found file:
+[16:40:36][    9.098878]  filename MLO
+[16:40:36][    9.098878]  size 155712
+[16:40:36][    9.098878]  REQUIRED
+[16:40:36][    9.098878] 
+[16:40:36][    9.132105] [NOTIFY] : SWUPDATE running :  [cpio_scan] : Found file:
+[16:40:36][    9.132105]  filename u-boot.img
+[16:40:36][    9.132105]  size 488548
+[16:40:36][    9.132105]  not required
+[16:40:36][    9.132105] 
+[16:40:36][    9.171562] [NOTIFY] : SWUPDATE running :  [cpio_scan] : Found file:
+[16:40:36][    9.171562]  filename MLO_failsafe
+[16:40:36][    9.171562]  size 155712
+[16:40:36][    9.171562]  not required
+[16:40:36][    9.171562] 
+[16:40:36][    9.196604] [NOTIFY] : SWUPDATE running :  [cpio_scan] : Found file:
+[16:40:36][    9.196604]  filename u-boot_failsafe.img
+[16:40:36][    9.196604]  size 488548
+[16:40:36][    9.196604]  not required
+[16:40:36][    9.196604] 
+[16:40:36][    9.232303] [NOTIFY] : SWUPDATE running :  [cpio_scan] : Found file:
+[16:40:36][    9.232303]  filename u-boot-usb.img
+[16:40:36][    9.232303]  size 155192
+[16:40:36][    9.232303]  not required
+[16:40:36][    9.232303] 
+[16:40:36][    9.261401] [NOTIFY] : SWUPDATE running :  [cpio_scan] : Found file:
+[16:40:36][    9.261401]  filename flags
+[16:40:36][    9.261401]  size 1024
+[16:40:36][    9.261401]  not required
+[16:40:36][    9.261401] 
+[16:40:36][    9.284373] [NOTIFY] : SWUPDATE running :  [cpio_scan] : Found file:
+[16:40:36][    9.284373]  filename uImage
+[16:40:36][    9.284373]  size 4047368
+[16:40:36][    9.284373]  REQUIRED
+[16:40:36][    9.284373] 
+[16:40:36][    9.453914] [NOTIFY] : SWUPDATE running :  [cpio_scan] : Found file:
+[16:40:36][    9.453914]  filename uImage-upgrade
+[16:40:36][    9.453914]  size 4047368
+[16:40:36][    9.453914]  not required
+[16:40:36][    9.453914] 
+[16:40:37][    9.621581] [NOTIFY] : SWUPDATE running :  [cpio_scan] : Found file:
+[16:40:37][    9.621581]  filename dra72x-ab02a.dtb
+[16:40:37][    9.621581]  size 94216
+[16:40:37][    9.621581]  REQUIRED
+[16:40:37][    9.621581] 
+[16:40:37][    9.646159] [NOTIFY] : SWUPDATE running :  [cpio_scan] : Found file:
+[16:40:37][    9.646159]  filename dra72x-ab02a-upgrade.dtb
+[16:40:37][    9.646159]  size 93997
+[16:40:37][    9.646159]  not required
+[16:40:37][    9.646159] 
+[16:40:37][    9.671765] [NOTIFY] : SWUPDATE running :  [cpio_scan] : Found file:
+[16:40:37][    9.671765]  filename minifsimg.ext4.gz
+[16:40:37][    9.671765]  size 9261302
+[16:40:37][    9.671765]  not required
+[16:40:37][    9.671765] 
+[16:40:37][   10.037890] [NOTIFY] : SWUPDATE running :  [cpio_scan] : Found file:
+[16:40:37][   10.037890]  filename rootfsimg.ext4.gz
+[16:40:37][   10.037890]  size 98921756
+[16:40:37][   10.037890]  REQUIRED
+[16:40:37][   10.037890] 
+[16:40:39][   12.536226] random: nonblocking pool is initialized
+[16:40:41][   13.662336] [NOTIFY] : SWUPDATE running :  [cpio_scan] : Found file:
+[16:40:41][   13.662336]  filename dataimg.ext4.gz
+[16:40:41][   13.662336]  size 5485
+[16:40:41][   13.662336]  REQUIRED
+[16:40:41][   13.662336] 
+[16:40:41][   13.685775] [NOTIFY] : SWUPDATE running :  [cpio_scan] : Found file:
+[16:40:41][   13.685775]  filename swupdate-script.sh
+[16:40:41][   13.685775]  size 4895
+[16:40:41][   13.685775]  REQUIRED
+[16:40:41][   13.685775] 
+[16:40:41][   13.717007] [NOTIFY] : SWUPDATE running :  [extract_next_file] : Copied file:
+[16:40:41][   13.717007]  filename swupdate-script.sh
+[16:40:41][   13.717007]  size 4895
+[16:40:41][   13.717007]  checksum 0x62883 VERIFIED
+[16:40:41][   13.717007] 
+[16:40:41][   14.009494] preinst function done...
+[16:40:41][   14.013596] [NOTIFY] : SWUPDATE running :  [execute_shell_script] : Calling shell script /tmp/swupdate-script.sh preinst: return with 0
+[16:40:41][   14.040452] [NOTIFY] : SWUPDATE running :  [install_images] : Found installer for stream rootfsimg.ext4.gz raw
+[16:40:54][   27.318675] [NOTIFY] : SWUPDATE running :  [install_images] : Found installer for stream dra72x-ab02a.dtb raw
+[16:40:54][   27.365258] [NOTIFY] : SWUPDATE running :  [install_images] : Found installer for stream uImage raw
+[16:40:55][   27.726936] [NOTIFY] : SWUPDATE running :  [install_images] : Found installer for stream dataimg.ext4.gz raw
+[16:40:55][   28.218341] [NOTIFY] : SWUPDATE running :  [install_images] : Found installer for stream MLO raw
+[16:40:55][   28.374000] EXT4-fs (mmcblk0gp2p3): re-mounted. Opts: data=ordered
+[16:40:56][   29.434971] EXT4-fs (mmcblk0p3): mounted filesystem with ordered data mode. Opts: (null)
+[16:40:56][   29.462841] EXT4-fs (mmcblk0gp1p1): mounted filesystem without journal. Opts: (null)
+[16:40:59][   32.596681] postinst function done...
+[16:41:00][   32.600940] [NOTIFY] : SWUPDATE running :  [execute_shell_script] : Calling shell script /tmp/swupdate-script.sh postinst: return with 0
+[16:41:00][   32.627674] Software updated successfully
+[16:41:00][   32.627674] Please reboot the device to start the new software
+[16:41:00][   32.627674] [NOTIFY] : SWUPDATE successful ! 
+[16:41:00][   32.649366] Update /media/usbstorage1/AB02A_firmware.swu success...
+[16:41:00][   32.667983] omap_hsmmc 480b4000.mmc: Change boot partition successfully 
+[16:41:00][   32.710575] EXT4-fs (mmcblk0p3): mounted filesystem with ordered data mode. Opts: (null)
+[16:41:03][   35.818160] copy  file...
+[16:41:06]INIT: Sending processes the TERM signal
+[16:41:07]Stopping syslogd/klogd: stopped syslogd (pid 281)
+[16:41:07]stopped klogd (pid 283)
+[16:41:07]done
+[16:41:07]Deconfiguring network interfaces... ifdown: interface eth0 not configured
+[16:41:07]done.
+[16:41:07]Sending all processes the TERM signal...
+[16:41:12]Sending all processes the KILL signal...
+[16:41:12]Unmounting remote filesystems...
+[16:41:12]Deactivating swap...
+[16:41:12]Unmounting local filesystems...
+[16:41:12][   45.071221] EXT4-fs (mmcblk0gp2p3): re-mounted. Opts: data=ordered
+[16:41:14]Rebooting... [   47.335321]  remoteproc1: failed to load dra7-dsp1-fw.xe66
+[16:41:14][   47.340907]  remoteproc0: failed to load dra7-ipu2-fw.xem4
+[16:41:14][   47.364516] reboot: Restarting system
+[16:41:14][   47.368197] at machine_restart.
+[16:41:14]
+[16:41:14]U-Boot SPL 2016.05-00243-g3b1c9ce (Mar 27 2019 - 22:02:54)
+[16:41:14]DRA722-GP ES2.0
+[16:41:15]Trying to boot from MMC2
+[16:41:15][    0.000000] Reserved memory: regions without no-map are not yet supported
+[16:41:15][    0.000000] Reserved memory: regions without no-map are not yet supported
+[16:41:15][    0.001956] /cpus/cpu@0 missing clock-frequency property
+[16:41:16][    0.564828] genirq: Flags mismatch irq 228. 00002003 (4809c000.mmc cd) vs. 00002003 (mmc1)
+[16:41:16][    0.580095] omap_voltage_late_init: Voltage driver support not added
+[16:41:16]INIT: version 2.88 booting
+[16:41:16][    0.994778] first init....times = 0 ret = 0
+[16:41:16]Loaded PowerVR consumer services.
+[16:41:16]setting pwm for camera isp frame sync
+[16:41:16]dumpe2fs 1.43-WIP (18-May-2015)
+[16:41:16]The file system in mmcblk0gp1p1 partitiong was successfully mounted
+[16:41:16]mke2fs 1.43-WIP (18-May-2015)
+[16:41:16]Discarding device blocks: done                            
+[16:41:16]Creating filesystem with 130048 1k blocks and 32512 inodes
+[16:41:17]Filesystem UUID: 1ca64c02-95f5-4daa-8936-d936181bc376
+[16:41:17]Superblock backups stored on blocks: 
+[16:41:17]        8193, 24577, 40961, 57345, 73729
+[16:41:17]
+[16:41:17]Allocating group tables: done                            
+[16:41:17]Writing inode tables: done                            
+[16:41:17]Creating journal (4096 blocks): done
+[16:41:18]Writing superblocks and filesystem accounting information: done 
+[16:41:18]
+[16:41:18]The file system was successfully formatted
+[16:41:28]start svp...
+[16:41:28]core file size          (blocks, -c) unlimited
+[16:41:28]data seg size           (kbytes, -d) unlimited
+[16:41:28]scheduling priority             (-e) 0
+[16:41:28]file size               (blocks, -f) unlimited
+[16:41:28]pending signals                 (-i) 2061
+[16:41:28]max locked memory       (kbytes, -l) 64
+[16:41:28]max memory size         (kbytes, -m) unlimited
+[16:41:28]open files                      (-n) 1024
+[16:41:28]pipe size            (512 bytes, -p) 8
+[16:41:28]POSIX message queues     (bytes, -q) 819200
+[16:41:28]real-time priority              (-r) 0
+[16:41:28]stack size              (kbytes, -s) 8192
+[16:41:28]cpu time               (seconds, -t) unlimited
+[16:41:28]max user processes              (-u) 2061
+[16:41:28]virtual memory          (kbytes, -v) unlimited
+[16:41:28]file locks                      (-x) unlimited
+[16:41:28][APP] APP_VERSION    :T1A_S190327_7F7ADC
+[16:41:28][APP] APP_BUILD_TIME :2019-03-27 21:09:49
+[16:41:28][APP] BSP_VERSION    :T1A-S_D190327_047CC3
+[16:41:28][APP] OS_VERSION    :CHERY-S_O190327_E055C3
+[16:41:28][APP] PLATFORM_VERSION    : AB02A3.0_TXX_19.03.02
+[16:41:28][SVP] Starting ...
+[16:41:28][SVP] Update RMT ...
+[16:41:28][SVP] Starting Service - "update_service"
+[16:41:28][   13.422451] mcu_spi open device use BLOCK flag
+[16:41:29]Starting udev
+[16:41:29]find: /sys/block/mmcblk[1-9]/: No such file or directory
+[16:41:29]Sat Jul 22 11:04:16 UTC 2017
+[16:41:29]INIT: Entering runlevel: 5
+[16:41:29]Configuring network interfaces... done.
+[16:41:29]Starting system message bus: dbus.
+[16:41:29]insmod usb module driver
+[16:41:30]Starting tiipclad daemon
+[16:41:30]GateMP support enabled on host
+[16:41:30]
+[16:41:30]Opened log file: lad.txt
+[16:41:30]
+[16:41:30]numProcessors = 5 id = 0 baseId = 0
+[16:41:30]
+[16:41:30]Spawned daemon: /usr/bin/lad_dra7xx
+[16:41:30]
+[16:41:30].
+[16:41:30]Enabling thermal zones...
+[16:41:30]
+[16:41:30] _____                    _____           _         _   
+[16:41:30]|  _  |___ ___ ___ ___   |  _  |___ ___  |_|___ ___| |_ 
+[16:41:30]|     |  _| .'| . | . |  |   __|  _| . | | | -_|  _|  _|
+[16:41:30]|__|__|_| |__,|_  |___|  |__|  |_| |___|_| |___|___|_|  
+[16:41:30]              |___|                    |___|            
+[16:41:30]
+[16:41:30]Arago Project http://arago-project.org t1a-s /dev/ttyS2
+[16:41:30]
+[16:41:30]Arago 2016.12 t1a-s /dev/ttyS2
+[16:41:30]
+[16:41:32]t1a-s login: 
+[16:41:32]U-Boot SPL 2016.05-00243-g3b1c9ce (Mar 27 2019 - 22:02:54)
+[16:41:32]DRA722-GP ES2.0
+[16:41:32]Trying to boot from MMC2
+[16:41:33][    0.000000] Reserved memory: regions without no-map are not yet supported
+[16:41:33][    0.000000] Reserved memory: regions without no-map are not yet supported
+[16:41:33][    0.001965] /cpus/cpu@0 missing clock-frequency property
+[16:41:33][    0.564813] genirq: Flags mismatch irq 228. 00002003 (4809c000.mmc cd) vs. 00002003 (mmc1)
+[16:41:33][    0.580060] omap_voltage_late_init: Voltage driver support not added
+[16:41:33]INIT: version 2.88 booting
+[16:41:33]Loaded PowerVR consumer services.
+[16:41:33]setting pwm for camera isp frame sync
+[16:41:33][    1.154813] cam_status Front = 1 Back = 1 Left = 1 Right = 1
+[16:41:33]dumpe2fs 1.43-WIP (18-May-2015)
+[16:41:34]The file system in mmcblk0gp1p1 partitiong was successfully mounted
+[16:41:34]
+[16:41:34]
+[16:41:34]start svp...
+[16:41:34]core file size          (blocks, -c) unlimited
+[16:41:34]data seg size           (kbytes, -d) unlimited
+[16:41:34]scheduling priority             (-e) 0
+[16:41:34]file size               (blocks, -f) unlimited
+[16:41:34]pending signals                 (-i) 2061
+[16:41:34]max locked memory       (kbytes, -l) 64
+[16:41:34]max memory size         (kbytes, -m) unlimited
+[16:41:34]open files                      (-n) 1024
+[16:41:34]pipe size            (512 bytes, -p) 8
+[16:41:34]POSIX message queues     (bytes, -q) 819200
+[16:41:34]real-time priority              (-r) 0
+[16:41:34]stack size              (kbytes, -s) 8192
+[16:41:34]cpu time               (seconds, -t) unlimited
+[16:41:34]max user processes              (-u) 2061
+[16:41:34]virtual memory          (kbytes, -v) unlimited
+[16:41:34]file locks                      (-x) unlimited
+[16:41:34][APP] APP_VERSION    :T1A_S190327_7F7ADC
+[16:41:34][APP] APP_BUILD_TIME :2019-03-27 21:09:49
+[16:41:34][APP] BSP_VERSION    :T1A-S_D190327_047CC3
+[16:41:34][APP] OS_VERSION    :CHERY-S_O190327_E055C3
+[16:41:34][APP] PLATFORM_VERSION    : AB02A3.0_TXX_19.03.02
+[16:41:34][SVP] Starting ...
+[16:41:34][SVP] Update RMT ...
+[16:41:34][SVP] Starting Service - "update_service"
+[16:41:34][    1.694844] camera status is 0xf, retry time=2 reset again 0-exist
+[16:41:34][    1.778099] mcu_spi open device use BLOCK flag
+[16:41:34][    1.839477] 
+[16:41:34][    1.839477]  mcu_spi radio sync fail......error...
+[16:41:34][    1.839477] 
+[16:41:34][    1.886788] 
+[16:41:34][    1.886788]  mcu_spi reset radio spi module......error...
+[16:41:34]Starting udev
+[16:41:34]find: /sys/block/mmcblk[1-9]/: No such file or directory
+[16:41:34]Sat Jul 22 11:04:16 UTC 2017
+[16:41:34]INIT: Entering runlevel: 5
+[16:41:35]Configuring network interfaces... done.
+[16:41:35]Starting system message bus: dbus.
+[16:41:35]insmod usb module driver
+[16:41:35][    2.864737] camera status is 0xf, retry time=1 reset again 0-exist
+[16:41:35]Starting tiipclad daemon
+[16:41:35]GateMP support enabled on host
+[16:41:35]
+[16:41:35]Opened log file: lad.txt
+[16:41:35]
+[16:41:35]numProcessors = 5 id = 0 baseId = 0
+[16:41:35]
+[16:41:35]Spawned daemon: /usr/bin/lad_dra7xx
+[16:41:35]
+[16:41:35].
+[16:41:35]Enabling thermal zones...
+[16:41:35]
+[16:41:35] _____                    _____           _         _   
+[16:41:35]|  _  |___ ___ ___ ___   |  _  |___ ___  |_|___ ___| |_ 
+[16:41:35]|     |  _| .'| . | . |  |   __|  _| . | | | -_|  _|  _|
+[16:41:35]|__|__|_| |__,|_  |___|  |__|  |_| |___|_| |___|___|_|  
+[16:41:35]              |___|                    |___|            
+[16:41:35]
+[16:41:35]Arago Project http://arago-project.org t1a-s /dev/ttyS2
+[16:41:35]
+[16:41:35]Arago 2016.12 t1a-s /dev/ttyS2
+[16:41:35]
+[16:41:36]t1a-s login: [    4.034737] camera status is 0xf, retry time=0 reset again 0-exist
+[16:41:37]failed to load module: /usr/lib/gbm/gbm_dri.so: cannot open shared object file: No such file or directory
+[16:41:37]failed to load module: /usr/lib/gbm/gbm_gallium_drm.so: cannot open shared object file: No such file or directory
+[16:41:37]loaded module : gbm_pvr.so
+[16:41:37]found valid GBM backend : gbm_pvr.so
+[16:41:37][    5.224814] first init....times = 0 ret = 0
+[16:42:33][   60.584891]  remoteproc1: failed to load dra7-dsp1-fw.xe66
+[16:45:03]
+[16:45:03]U-Boot SPL 2016.05-00243-g3b1c9ce (Mar 27 2019 - 22:02:54)
+[16:45:03]DRA722-GP ES2.0
+[16:45:03]Trying to boot from MMC2
+[16:45:04][    0.000000] Reserved memory: regions without no-map are not yet supported
+[16:45:04][    0.000000] Reserved memory: regions without no-map are not yet supported
+[16:45:04][    0.001965] /cpus/cpu@0 missing clock-frequency property
+[16:45:04][    0.564813] genirq: Flags mismatch irq 228. 00002003 (4809c000.mmc cd) vs. 00002003 (mmc1)
+[16:45:04][    0.580075] omap_voltage_late_init: Voltage driver support not added
+[16:45:04]INIT: version 2.88 booting
+[16:45:04][    0.994759] first init....times = 0 ret = 0
+[16:45:05]Loaded PowerVR consumer services.
+[16:45:05]setting pwm for camera isp frame sync
+[16:45:05]dumpe2fs 1.43-WIP (18-May-2015)
+[16:45:05]The file system in mmcblk0gp1p1 partitiong was successfully mounted
+[16:45:05]
+[16:45:05]
+[16:45:05]start svp...
+[16:45:05]core file size          (blocks, -c) unlimited
+[16:45:05]data seg size           (kbytes, -d) unlimited
+[16:45:05]scheduling priority             (-e) 0
+[16:45:05]file size               (blocks, -f) unlimited
+[16:45:05]pending signals                 (-i) 2061
+[16:45:05]max locked memory       (kbytes, -l) 64
+[16:45:05]max memory size         (kbytes, -m) unlimited
+[16:45:05]open files                      (-n) 1024
+[16:45:05]pipe size            (512 bytes, -p) 8
+[16:45:05]POSIX message queues     (bytes, -q) 819200
+[16:45:05]real-time priority              (-r) 0
+[16:45:05]stack size              (kbytes, -s) 8192
+[16:45:05]cpu time               (seconds, -t) unlimited
+[16:45:05]max user processes              (-u) 2061
+[16:45:05]virtual memory          (kbytes, -v) unlimited
+[16:45:05]file locks                      (-x) unlimited
+[16:45:05][APP] APP_VERSION    :T1A_S190327_7F7ADC
+[16:45:05][APP] APP_BUILD_TIME :2019-03-27 21:09:49
+[16:45:05][APP] BSP_VERSION    :T1A-S_D190327_047CC3
+[16:45:05][APP] OS_VERSION    :CHERY-S_O190327_E055C3
+[16:45:05][APP] PLATFORM_VERSION    : AB02A3.0_TXX_19.03.02
+[16:45:05][SVP] Starting ...
+[16:45:05]T1A
+[16:45:05]killall: lad_dra7xx: no process killed
+[16:45:05]
+[16:45:05]Opened log file: lad.txt
+[16:45:05]
+[16:45:05]numProcessors = 5 id = 0 baseId = 0
+[16:45:05]
+[16:45:05]Spawned daemon: /usr/bin/lad_dra7xx
+[16:45:05]
+[16:45:05][SVP] Starting Service - "persist_service"
+[16:45:05][SVP] Starting Service - "remote_vehicle_service"
+[16:45:05][SVP] Starting Service - "/opt/vision_sdk/apps.out"
+[16:45:05][SVP] Starting Service - "avm3d_service"
+[16:45:05][SVP] Starting Service - "avm3d_app"
+[16:45:05][    1.926057] omap_l3_noc 44000000.ocp: L3 application error: target 3 mod:2 (unclearable)
+[16:45:05][    1.934218] omap_l3_noc 44000000.ocp: L3 debug error: target 3 mod:2 (unclearable)
+[16:45:05][    1.988051] mcu_spi open device use BLOCK flag
+[16:45:05]dvr enable = 0 
+[16:45:05]** Message: Platform:InitStep=1
+[16:45:05]** Message: DR: relocation
+[16:45:05]** Message: DR:relocation show_line value 1
+[16:45:05]** Message: sreen width is 1920
+[16:45:05]** Message: sreen height is 720
+[16:45:05]** Message: Platform:InitStep=2
+[16:45:05]** Message: Platform:InitStep=3
+[16:45:05]** Message: Platform:InitStep=4
+[16:45:05]** Message: Platform:InitStep=5
+[16:45:05]** Message: SPI_ADAPTER:RMT_EVENT_POWER_MODE_CHANGED(0x5101) : param1=2, param2=0
+[16:45:05]
+[16:45:06]ERROR:  [SVP_LOG]  [FUNC:calib_data_check , LINE:1068] rm cache begin
+[16:45:06] 
+[16:45:06]ERROR:  [SVP_LOG]  [FUNC:calib_data_check , LINE:1071] rm cache end
+[16:45:06] 
+[16:45:06]** Message: Platform:InitStep=6
+[16:45:06]** Message: Platform:InitStep=7
+[16:45:06]** Message: Platform:InitStep=8
+[16:45:06]** Message: ================================= valid calib data in norflash ORIG, dump it ============================== 
+[16:45:06]
+[16:45:06][IDA-Debug|0xB6F24000]: [       main.cpp]: App Starting... Thread id:137,Process id=137.
+[16:45:06]** Message: ================================= update calib data in norflash ORIG to xml ============================== 
+[16:45:06]
+[16:45:06]** Message: Platform:InitStep=9
+[16:45:06]** Message: Platform:InitStep=10
+[16:45:06]** Message: Platform:InitStep=11
+[16:45:06]** Message: Platform:InitStep=12
+[16:45:06]** Message: thread LoopTask, 0xce2600
+[16:45:06]
+[16:45:06]** Message: thread Run, 0xce2600
+[16:45:06]
+[16:45:06]** Message: AVM send calib params succeed
+[16:45:06]qt CMEM_allocPhys2 begin...
+[16:45:06] (No such file or directory)
+[16:45:06][    2.896360] Enable CSI to get camera data
+[16:45:06] qt CMEM_allocPhys2 end..pa =  94600000.
+[16:45:06] (Invalid argument)
+[16:45:06] qt vaddr..  b5345000.[    2.904697] gmsl_lock trigged
+[16:45:06]
+[16:45:06] (Invalid argument)
+[16:45:06][    2.913124] Enable csi_data_switch in while loop
+[16:45:07][SVP] Starting Service - "update_service"
+[16:45:07][SVP] Starting Service - "deamon_service"
+[16:45:07][SVP] Drop caches.
+[16:45:07]
+[16:45:07]deamon service :process is start
+[16:45:07]** Message: [IDA]create '/dev/uinput' success, fd=9
+[16:45:07]
+[16:45:08]** Message: AVM:InitStep=1/14 end top cache!
+[16:45:08]Starting udev
+[16:45:09]find: /sys/block/mmcblk[1-9]/: No such file or directory
+[16:45:09]Sat Jul 22 11:04:16 UTC 2017
+[16:45:09]INIT: Entering runlevel: 5
+[16:45:09]Configuring network interfaces... done.
+[16:45:09]Starting system message bus: dbus.
+[16:45:09]insmod usb module driver
+[16:45:10]Starting tiipclad daemon.
+[16:45:10]Enabling thermal zones...
+[16:45:10]
+[16:45:10] _____                    _____           _         _   
+[16:45:10]|  _  |___ ___ ___ ___   |  _  |___ ___  |_|___ ___| |_ 
+[16:45:10]|     |  _| .'| . | . |  |   __|  _| . | | | -_|  _|  _|
+[16:45:10]|__|__|_| |__,|_  |___|  |__|  |_| |___|_| |___|___|_|  
+[16:45:10]              |___|                    |___|            
+[16:45:10]
+[16:45:10]Arago Project http://arago-project.org t1a-s /dev/ttyS2
+[16:45:10]
+[16:45:10]Arago 2016.12 t1a-s /dev/ttyS2
+[16:45:10]
+[16:45:12]t1a-s login: qml: Current language: tr_default
+[16:45:12]**IDA App Window Width:1920, Height:720**
+[16:45:12][IDA] QT App running...
+[16:45:12]** Message: AVM:InitStep=2/14 end around cache!
+[16:45:12]** Message: wjr PVRControlTask, PVRControlTask
+[16:45:12]
+[16:45:12]** Message: Platform:InitStep=13
+[16:45:12]** Message: thread PVRControlTask, 0xce2630
+[16:45:12]
+[16:45:12]OSA_memInit : 0
+[16:45:12]
+[16:45:12]OSA_dmaInit : 0
+[16:45:12]
+[16:45:12]drm device : /dev/dri/card0 is exist
+[16:45:12]
+[16:45:12]         HAL:avm:InitStep=2 
+[16:45:12]
+[16:45:12]         HAL:avm:InitStep=3 
+[16:45:12]
+[16:45:12]failed to load module: /usr/lib/gbm/gbm_dri.so: cannot open shared object file: No such file or directory
+[16:45:12]failed to load module: /usr/lib/gbm/gbm_gallium_drm.so: cannot open shared object file: No such file or directory
+[16:45:12]loaded module : gbm_pvr.so
+[16:45:12]found valid GBM backend : gbm_pvr.so
+[16:45:12]** Message: Platform:InitStep=14
+[16:45:12]** Message: Platform:InitStep=15
+[16:45:12]** Message: Platform:InitStep=16
+[16:45:12]** Message: Platform:InitStep=17
+[16:45:12]** Message: wjr DynamicCalibTask, DynamicCalibTask
+[16:45:12]
+[16:45:12]         HAL:avm:InitStep=4 
+[16:45:12]
+[16:45:12]** Message: thread DynamicCalibTask, 0xce2660
+[16:45:12]
+[16:45:12]** Message: &&&&&&&&&&&&&&&& PauseCalib end
+[16:45:12]** Message: wjr APSDetectionTask, APSDetectionTask
+[16:45:12]
+[16:45:12]** Message: DR mShowLine 1
+[16:45:12]** Message: wjr RelocationTask, RelocationTask
+[16:45:12]
+[16:45:12]** Message: Platform:InitStep=18
+[16:45:12]** Message: Platform:InitStep=19
+[16:45:12]** Message: Platform:InitStep=20
+[16:45:12]** Message: Platform:InitStep=21
+[16:45:12]** Message: Platform:InitStep=22
+[16:45:12]** Message: Platform:InitStep=23
+[16:45:12]** Message: thread RelocationThread, 0xce26f0
+[16:45:12]
+[16:45:12]** Message: thread RelocationTask, 0xce2720
+[16:45:12]
+[16:45:12]** Message: detection OnStart start 5
+[16:45:12]** Message: ------DetectOperatorBase::Init model: 4---------
+[16:45:12]
+[16:45:12]** Message: thread ThreadProc, 0xce2750
+[16:45:12]
+[16:45:12]** Message: thread LoopTask, 0xce2780
+[16:45:12]
+[16:45:12]** Message: thread APSDetectionTask, 0xce26c0
+[16:45:12]
+[16:45:12]** Message: detection OnStart start 5
+[16:45:12]** Message: ------DetectOperatorBase::Init model: 0---------
+[16:45:12]
+[16:45:12]** Message: thread LoopTask, 0xce2690
+[16:45:12]
+[16:45:12]** Message: APSDetectThread::Run Run, 0xce2690
+[16:45:12]
+[16:45:12]** Message: thread CallbackThread, 0xce3b20
+[16:45:12]
+[16:45:12]         HAL:avm:InitStep=6 
+[16:45:12]
+[16:45:12]Display initialized, Render thread created
+[16:45:12]** Message: thread recv_thread, 0xb412c060
+[16:45:12]
+[16:45:12]** Message: 20190320 AVM:InitStep=3/14 end create_camera_device!
+[16:45:12]** Message: thread post_thread, 0xb5a04b20
+[16:45:12]
+[16:45:12]** Message: wjr : register traj cache callback
+[16:45:12]** Message: wrong msg id[0x4405]
+[16:45:12]** Message: ============RegisteaParamSaveCallback();==================
+[16:45:12]** Message: ----------callback->iMethodID == SIGNAL_ID_VIEWMODE_TYPE--------
+[16:45:12]** Message: Platform:InitStep=24
+[16:45:12]** Message: Platform:InitStep=25
+[16:45:12]** Message: Platform:InitStep=26
+[16:45:12]** Message: Platform:InitStep=27
+[16:45:12]** Message: thread LoopTask, 0xce3630
+[16:45:12]
+[16:45:12]** Message: thread Run, 0xce3630
+[16:45:12]
+[16:45:12]** Message: thread LoopTask, 0xce3660
+[16:45:12]
+[16:45:12]** Message: thread Run, 0xce3660
+[16:45:12]
+[16:45:12]** Message: thread LoopTask, 0xce3600
+[16:45:12]
+[16:45:12]** Message: thread Run, 0xce3600
+[16:45:12]
+[16:45:12]** Message: thread LoopTask, 0xce27b0
+[16:45:12]
+[16:45:12]** Message: thread Run, 0xce27b0
+[16:45:12]
+[16:45:12]
+[16:45:12](process:136): GLib-CRITICAL **: g_variant_new_string: assertion 'g_utf8_validate (string, -1, NULL)' failed
+[16:45:12]
+[16:45:12](process:136): GLib-CRITICAL **: g_variant_new_string: assertion 'g_utf8_validate (string, -1, NULL)' failed
+[16:45:12]** Message: receive reverse gear 0
+[16:45:12]
+[16:45:13]** Message: AVM:InitStep=4/14 end car init!
+[16:45:13]** Message: Platform:InitStep=28
+[16:45:13]** Message: sharemsg_recvDmabuffer 3 
+[16:45:13]
+[16:45:13]** Message: minigui buffer len is 3 pa[0]= 94c00000 , pa[1] = 95200000 
+[16:45:13]
+[16:45:13]** Message: 32:1920x720
+[16:45:13]init_minigui_dev Display..
+[16:45:13]disp_open_minigui
+[16:45:13]init_minigui_dev Display end..
+[16:45:13]** Message: minigui_out_pa_bo_create++++++
+[16:45:13]
+[16:45:13]disp_get_vid_buffers_minigui
+[16:45:13]disp_minigui callback is 0x54371
+[16:45:13]minigui CMEM_allocPhys2  pa = 94c00000...
+[16:45:13]
+[16:45:13]minigui cmem vaddr 97dba000  
+[16:45:13]
+[16:45:13]minigui cmem vaddr 97dba000  
+[16:45:13]
+[16:45:13]minigui CMEM_allocPhys2  pa = 95200000...
+[16:45:13]
+[16:45:13]minigui cmem vaddr 97874000  
+[16:45:13]
+[16:45:13]minigui cmem vaddr 97874000  
+[16:45:13]
+[16:45:13]minigui CMEM_allocPhys2  pa = 95800000...
+[16:45:13]
+[16:45:13]minigui cmem vaddr 9732e000  
+[16:45:13]
+[16:45:13]minigui cmem vaddr 9732e000  
+[16:45:13]
+[16:45:13]bo create minigui pa  2495610880 
+[16:45:13]
+[16:45:13]bo create minigui pa  2501902336 
+[16:45:13]
+[16:45:13]bo create minigui pa  2508193792 
+[16:45:13]
+[16:45:13]** Message: minigui_out_pa_bo_create--------
+[16:45:13]
+[16:45:13]** Message: traj_flip_buf[0]: 5529600
+[16:45:13]
+[16:45:13]** Message: AVM:InitStep=5/14 end top init!
+[16:45:13]** Message: traj_flip_buf[1]: 5529600
+[16:45:13]
+[16:45:13]** Message: traj_flip_buf[2]: 5529600
+[16:45:13]
+[16:45:13]** Message: AVM:InitStep=6/14 end around init!
+[16:45:13]** Message: START_WHEEL_ANGLE -32  END_WHEEL_ANGLE 32
+[16:45:13]** Message: AVM:InitStep=7/14 end traj init!
+[16:45:13]** Message: AVM:InitStep=8/14 end radar init!
+[16:45:13]** Message: AVM:InitStep=9/14 end detect init!
+[16:45:13]disp_get_vid_buffers
+[16:45:13]disp callback is 0x4bb49
+[16:45:13]buf width 288 ,buf height 512 ,buf pitchs 576 
+[16:45:13]
+[16:45:13]** Message: AVM:InitStep=10/14 end blind init!
+[16:45:13]** Message: AVM:InitStep=11/14 end seam init!
+[16:45:13]** Message: AVM:InitStep=12/14 end m_pShellList init!
+[16:45:13]** Message: AVM:InitStep=13/14 end color init!
+[16:45:13]** Message: PVRShell::Start() 0 m_ModeType 0
+[16:45:13]** Message: PVRShell::Start() 1
+[16:45:13]** Message: PVRShell::Start() 2
+[16:45:13]** Message: PVRShell::Start() 3
+[16:45:13]** Message: PVRShell::Start() 4
+[16:45:13]** Message: AVM:InitStep=14/14 OnStart() end
+[16:45:13]
+[16:45:14]** Message: Traj:InitStep=1
+[16:45:14]
+[16:45:14]** Message: WHEEL_ANGLE_START -32  WHEEL_ANGLE_END 32
+[16:45:14]** Message: Traj:InitStep=2
+[16:45:14]
+[16:45:14]** Message: Traj:InitStep=end
+[16:45:14]
+[16:45:14]** Message: Traj:InitStep=3
+[16:45:14]
+[16:45:14]** Message: Traj:InitStep=4
+[16:45:14]
+[16:45:14]** Message: Traj:InitStep=5
+[16:45:14]
+[16:45:14]** Message: Traj:InitStep=6
+[16:45:14]
+[16:45:14]** Message: Traj:InitStep=7
+[16:45:14]
+[16:45:14]** Message: Traj:InitStep=8
+[16:45:14]
+[16:45:14]ERROR:create_texture:2674: glBindTexture!
+[16:45:14]** Message: avm init pri = 0 
+[16:45:14]
+[16:45:14]** Message: avm set pri = 0 
+[16:45:14]
+[16:45:14]** Message: ++++debusstart_timer ++++bIsBusStartOK
+[16:45:14]
+[16:45:14]** Message:  Camera are ok in libhal
+[16:45:14]** Message: thread LoopTask, 0xb3f08690
+[16:45:14]
+[16:45:14]qml: Current language: tr_default
+[16:45:14]qml: avmtop state chaged= topview_front
+[16:45:14]qml: avmtop state chaged= topview_front
+[16:45:15]qml: onChangeRadarStatus, radar_id =  2 zone =  244
+[16:45:15]qml: onChangeRadarStatus, radar_id =  3 zone =  244
+[16:45:15]qml: onChangeRadarStatus, radar_id =  4 zone =  244
+[16:45:15]qml: onChangeRadarStatus, radar_id =  5 zone =  244
+[16:45:15]qml: onChangeRadarStatus, radar_id =  8 zone =  244
+[16:45:15]qml: onChangeRadarStatus, radar_id =  9 zone =  244
+[16:45:15]qml: onChangeRadarStatus, radar_id =  10 zone =  244
+[16:45:15]qml: onChangeRadarStatus, radar_id =  11 zone =  244
+[16:45:15]qml: Current language: tr_default
+[16:45:15]** Message: post commit   GP FPSG = 8.26
+[16:45:15]
+[16:45:18]record link commit       GP FPSG = 6.93
+[16:45:18]** Message: avm render  GP FPSG = 6.91
+[16:45:18]
+[16:45:19]** Message: post commit   GP FPSG = 30.00
+[16:45:19]
+[16:45:22]record link commit       GP FPSG = 25.00
+[16:45:22]** Message: avm render  GP FPSG = 25.08
+[16:45:22]
+[16:45:22]** Message: post commit   GP FPSG = 30.00
+[16:45:22]
+[16:45:25]** Message: post commit   GP FPSG = 30.00
+[16:45:25]
+[16:45:26]record link commit       GP FPSG = 25.00
+[16:45:26]** Message: avm render  GP FPSG = 25.01
+[16:45:26]
